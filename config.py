@@ -1,4 +1,4 @@
 from tokenize import Token
 
 
-TOKEN=''
+TOKEN='5521680849:AAFStgYmWXzRSMUrryVJQZ_cUDNnPiDipmY'
