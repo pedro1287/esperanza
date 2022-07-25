@@ -605,6 +605,10 @@ def main():
     #decomentar abajo y modificar solo si se va a poner el token del bot manual
     #bot_token = '5521680849:AAFStgYmWXzRSMUrryVJQZ_cUDNnPiDipmY'
 
+    
+    
+    '
+
 
 
 
