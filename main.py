@@ -603,7 +603,7 @@ def main():
     bot_token = os.environ.get('bot_token')
 
     #decomentar abajo y modificar solo si se va a poner el token del bot manual
-    #bot_token = '5521680849:AAFStgYmWXzRSMUrryVJQZ_cUDNnPiDipmY'
+    #bot_token = '5376331272:AAFX_r1n5FpWX5TYEzzyq7E2nFa5QyqTPWo'
 
     
     
