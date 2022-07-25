@@ -606,6 +606,7 @@ def main():
     #bot_token = '5521680849:AAFStgYmWXzRSMUrryVJQZ_cUDNnPiDipmY'
 
 
+
     bot = ObigramClient(bot_token)
     bot.onMessage(onmessage)
     bot.run()
